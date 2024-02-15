@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <h2 align="center">🛠️ Tecnologias </h2> 
 
 <p align="center">
-- Linguagens de programação: JavaScript, Python, Java.
-- Front-end: React.js
-- Back-end: Node.js, Express, Java.
-- Outras ferramentas e tecnologias que eu amo explorar.  
+- Linguagens de programação: JavaScript, Python, Java.</br>
+- Front-end: React.js</br>
+- Back-end: Node.js, Express, Java.</br>
+- Outras ferramentas e tecnologias que eu amo explorar.
 </p>
 
 
@@ -46,9 +46,11 @@ Here are some ideas to get you started:
 
 <h2 align="center">📊 Estatísticas do GitHub</h2> 
 
-<p align="center">
-![Estatísticas do GitHub]
-</p>
-<p align="center">(https://github-readme-stats.vercel.app/api?username=tirsoalc&show_icons=true&count_private=true&hide=prs,issues,contribs)</p>
+<div align="center">
+  <p>
+    ![Estatísticas do GitHub]
+  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=tirsoalc&show_icons=true&count_private=true&hide=prs,issues,contribs">
+</div>
 
 ⭐️ Obrigado por visitar o meu perfil! Vamos nos conectar! ⭐️
