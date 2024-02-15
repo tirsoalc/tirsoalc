@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h2 align="center"> 👨‍💻 Sobre mim </h2>
 <p align="center">
-- 🌐 Desenvolvedor de software apaixonado por tecnologia.
+- 🌐 Desenvolvedor de software apaixonado por tecnologia.</br>
 - 🚀 Sempre em busca de aprender e aprimorar minhas habilidades.
 </p>
 
@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   <p>
-    ![Estatísticas do GitHub]
+    [Estatísticas do GitHub]
   </p>
   <img src="https://github-readme-stats.vercel.app/api?username=tirsoalc&show_icons=true&count_private=true&hide=prs,issues,contribs">
 </div>
 
-⭐️ Obrigado por visitar o meu perfil! Vamos nos conectar! ⭐️
+<p align="center">⭐️ Obrigado por visitar o meu perfil! Vamos nos conectar! ⭐️</p>
