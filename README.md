@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**tirsoalc/tirsoalc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center"> 👋 Olá, eu sou Tirso </h1>
 
 <h2 align="center"> 👨‍💻 Sobre mim </h2>
@@ -35,9 +18,9 @@ Here are some ideas to get you started:
 
 <!--
 ## 📫 Como me encontrar
-- LinkedIn: [Seu LinkedIn](link do seu LinkedIn)
-- Twitter: [@SeuTwitter](link do seu Twitter)
-- Site pessoal: [SeuSite](link do seu site)
+- LinkedIn: [LinkedIn](link do linkedin)
+- Twitter: [Twitter](link do twitter)
+- Site pessoal: [Site](link do site)
 -->
 
 <h2 align="center">🤝 Colaborações<h2>
