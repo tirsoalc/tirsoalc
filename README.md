@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> 👋 Olá, eu sou [Tirso] </h1>
+<h1 align="center"> 👋 Olá, eu sou Tirso </h1>
 
 <h2 align="center"> 👨‍💻 Sobre mim </h2>
 <p align="center">
@@ -47,9 +47,6 @@ Here are some ideas to get you started:
 <h2 align="center">📊 Estatísticas do GitHub</h2> 
 
 <div align="center">
-  <p>
-    [Estatísticas do GitHub]
-  </p>
   <img src="https://github-readme-stats.vercel.app/api?username=tirsoalc&show_icons=true&count_private=true&hide=prs,issues,contribs">
 </div>
 
