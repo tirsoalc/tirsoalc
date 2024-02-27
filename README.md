@@ -12,7 +12,6 @@
 - Linguagens de programação: JavaScript, Python, Java.</br>
 - Front-end: React.js</br>
 - Back-end: Node.js, Express, Java.</br>
-- Outras ferramentas e tecnologias que eu amo explorar.
 </p>
 
 
@@ -33,4 +32,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tirsoalc&show_icons=true&count_private=true&hide=prs,issues,contribs">
 </div>
 
-<p align="center">⭐️ Obrigado por visitar o meu perfil! Vamos nos conectar! ⭐️</p>
+
