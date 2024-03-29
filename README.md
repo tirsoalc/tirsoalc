@@ -2,8 +2,8 @@
 
 <h2 align="center"> Sobre mim </h2>
 <p align="center">
-- 🌐 Desenvolvedor de software apaixonado por tecnologia.</br>
-- 🚀 Sempre em busca de aprender e aprimorar minhas habilidades.
+- Desenvolvedor de software apaixonado por tecnologia.</br>
+- Sempre em busca de aprender e aprimorar minhas habilidades.
 </p>
 
 <h2 align="center"> Tecnologias </h2> 
