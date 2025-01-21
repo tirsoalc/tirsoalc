@@ -10,7 +10,6 @@
 
 <p align="center">
 - Linguagens de programação: JavaScript, Python, Java.</br>
-- Front-end: React.js</br>
 - Back-end: Node.js, Express, Java.</br>
 </p>
 
